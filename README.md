@@ -11,3 +11,6 @@ I am a student at UGSOT.
 - <project1: one line about it
 - <project2: one line about it
 
+## Contact
+- Email: nayanjoshi092@gmail.com
+
