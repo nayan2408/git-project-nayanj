@@ -1,4 +1,9 @@
 # Nayan
 ## About Me
 I am a student at UGSOT.
-# git-project-nayanj
+
+## Skills
+- Communication
+- Problem solving
+- Basic Git
+
